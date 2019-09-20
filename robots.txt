@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://upohquahhi.3cornerscleaning.com/sitemap.xml
